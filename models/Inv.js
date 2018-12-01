@@ -1,0 +1,2 @@
+const InvSchema = new Schema();
+
